@@ -46,6 +46,9 @@ Nenhuma instalação local é necessária. Todos os recursos são carregados por
 ## 🍙・Hospedagem usada:
 - [Shop Host Brasil](https://shophostbrasil.com.br)
 
+
+![Prints](image.png)
+
 ## 👨‍💻 Autor
 Desenvolvido por Danielluiz2016  
 &copy; 2025
